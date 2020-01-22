@@ -1,0 +1,26 @@
+19 _ Dec UAT Issue Fix
+18--""
+17- "" & UAT dep
+
+16 _ Efom INP prepr
+13-Eform Phase 2 – Local Issue Fix.
+12-""
+
+Product overview KT from Arulsamy .
+Eform Phase 2 – Local Issue Fix.
+..
+
+10--Eform Phase 2 - Unit and  Integration Testing
+
+9 --Eform Phase 2 Internal Development.	
+
+6--"Learning JavaScript and HTML languages."
+
+--------------------------------------------------------------
+
+
+20-Learning & practicing JavaScript and HTML languages.
+23& 24 --Learning & practicing JavaScript and HTML & CSS languages.	
+
+26& 27 -- Learning & practicing JavaScript and HTML & ASP .Net languages.
+
